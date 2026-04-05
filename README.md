@@ -14,7 +14,7 @@ Structured lists for ingredients (unordered) and preparation steps (ordered).
 Skills Developed
 Through the four iterations of this project, I have strengthened my proficiency in:
 
-HTML Boilerplate & Structure: Utilizing semantic tags like <h1>, <h2>, <p>, <ul>, and <ol>.
+HTML Boilerplate & Structure: Utilizing semantic tags.
 
 File Organization: Creating and managing nested directories (e.g., the recipes/ folder) to keep project files clean.
 
